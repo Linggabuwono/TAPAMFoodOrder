@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176313556260",
+    "firebase_url": "https://tapamfoodorder-4b42e.firebaseio.com",
+    "project_id": "tapamfoodorder-4b42e",
+    "storage_bucket": "tapamfoodorder-4b42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176313556260:android:b8407f0ae2ca8c1938a7b1",
+        "android_client_info": {
+          "package_name": "com.example.tapamfoodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176313556260-ejqd44mktvbbje2pge2375u8pq2l92uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tapamfoodorder",
+            "certificate_hash": "9a356efa20bef3923a5f046cbc87e4c890233f62"
+          }
+        },
+        {
+          "client_id": "176313556260-5drbgbu50t5floj3llqtdbvpkidgbcgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0KVDyKMiDoNPIvbFnqTqqoytTv1XaakQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176313556260-5drbgbu50t5floj3llqtdbvpkidgbcgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
